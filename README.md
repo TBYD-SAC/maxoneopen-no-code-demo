@@ -1,50 +1,79 @@
 # MaxOneOpen – No-Code Rule Execution Demo
 
-This repository provides a functional demo of a no-code rule execution framework, based on the declarative logic engine of MaxOneOpen.
+This repository provides a functional demo of **no-code rule execution**, based on the declarative capsule logic used in **MaxOneOpen v4.1**.
 
-🔒 MaxOneOpen is a fully auditable, rule-based infrastructure that operates above traditional code – enabling control through composition, not programming.
-
----
-
-## 🚀 How to Use This Demo
-
-### 🔗 Run it directly in your browser
-You can open the following HTML file directly in your browser – no server or installation required:
-
-👉 [`no-code-rule-execution.html`](no-code-rule-execution.html)
-
-### 💾 Run it locally
-1. Download the file [`no-code-rule-execution.html`](no-code-rule-execution.html)
-2. Open it in any modern browser (Chrome, Firefox, Edge etc.)
-3. The logic runs fully client-side – no internet or backend required.
+> 🧭 MaxOneOpen is a publicly disclosed, verifiable meta-infrastructure that enables structural control over digital processes – without writing or executing any code.
 
 ---
 
-## 📦 Structure
+## 🚀 Try It Now – Live Demo
 
-| File | Purpose |
-|------|---------|
-| `no-code-rule-execution.html` | The functional rule execution demo (pure HTML + JS) |
-| `README.md` | This documentation file |
+👉 [Run the HTML demo](./no-code-rule-execution.html)  
+💾 [Download as raw file](https://raw.githubusercontent.com/TBYD-SAC/maxoneopen-no-code-demo/main/no-code-rule-execution.html)
 
 ---
 
-## 🔍 About MaxOneOpen
+## 🧪 What This Demo Shows
 
-MaxOneOpen is a declarative meta-infrastructure for digital sovereignty.  
-It allows operators to define behavior, compliance and data flows without writing code.
+- Rule-based logic without backend code  
+- Structural enforcement of roles and conditions  
+- Declarative capsules replacing traditional programming  
+- Fully local execution – no dependencies or cloud required
 
-🌐 Public Release: April 1, 2025  
-🔎 Documentation & legal basis: See [Disclosure ProxyPackage](https://similar-violet-sturgeon.myfilebase.com/ipfs/bafybeigrts22nmno37ma7qqxt6m2iyfl2xslpje3addlzi4rk3iljjlcly)
+---
+
+## 📄 Capsule Logic (Declarative, Not Coded)
+
+```json
+{
+  "id": "SubmitForm",
+  "role": "Admin",
+  "rules": [
+    { "type": "signature", "requiredKey": "ControllerKey" },
+    { "type": "field", "name": "status", "equals": "ready" }
+  ],
+  "reaction": ["store", "notify"]
+}
+```
+
+The behavior above is **not programmed**.  
+It is structurally defined and enforced through the MaxOneOpen capsule engine.
+
+---
+
+## 📂 Repository Structure
+
+| File                           | Purpose                                                |
+|--------------------------------|--------------------------------------------------------|
+| `no-code-rule-execution.html` | Interactive HTML demo – rule execution without code    |
+| `README.md`                    | This documentation                                     |
+| `HASHES.md` *(optional)*       | Verifiable hash of demo file (for auditability)       |
+| `LICENSE.md` *(optional)*      | Structural license or usage notice                    |
+
+---
+
+## 📜 Official Disclosure (IPFS-verified)
+
+The MaxOneOpen infrastructure was publicly disclosed on June 18, 2025.
+
+🔗 **Disclosure ProxyPackage**  
+→ [https://similar-violet-sturgeon.myfilebase.com/ipfs/bafybeigrts22nmno37ma7qqxt6m2iyfl2xslpje3addlzi4rk3iljjlcly](https://similar-violet-sturgeon.myfilebase.com/ipfs/bafybeigrts22nmno37ma7qqxt6m2iyfl2xslpje3addlzi4rk3iljjlcly)
+
+This public IPFS document includes:
+- Licensing model (TBYD Structural License)  
+- Technical structure (SACA architecture)  
+- Auditability logic  
+- Legal timestamp & commitment
 
 ---
 
 ## 🧠 Learn More
 
-- [Part 1: Who’s protecting whom, really?](https://www.linkedin.com/pulse/whos-protecting-whom-really-part-1-trilogy-max-one-ju-eidecker-uttvf)
-- [Part 2: The Organised Silence](https://www.linkedin.com/pulse/max-one-disclosure-part-2-organised-silence-ju-eidecker-a0lvf)
+- [Part 1: Who’s protecting whom, really?](https://www.linkedin.com/pulse/whos-protecting-whom-really-part-1-trilogy-max-one-ju-eidecker-uttvf)  
+- [Part 2: The Organised Silence](https://www.linkedin.com/pulse/max-one-disclosure-part-2-organised-silence-ju-eidecker-a0lvf)  
 - [Part 3: The Structural Break](https://www.linkedin.com/pulse/structural-break-part-3-trilogy-max-one-disclosure-ju-eidecker-vbccf)
 
 ---
 
-© TBYD / SAC • Public Infrastructure Disclosure • MaxOneOpen v4.1
+© Take Back Your Data / SAC – Public Infrastructure Disclosure  
+**MaxOneOpen v4.1** • Released under verifiable structural terms
