@@ -1,3 +1,9 @@
+## 🚀 Live Demo
+
+👉 [No-Code Rule Execution (Live)](https://tbyd-sac.github.io/maxoneopen-no-code-demo/demo/no-code-rule-execution.html)
+
+This live example shows rule execution in MaxOneOpen – without traditional code, using a declarative capsule model.
+
 # MaxOneOpen – No-Code Rule Execution Demo
 
 This repository provides a functional demo of **no-code rule execution**, based on the declarative capsule logic used in **MaxOneOpen v4.1**.
